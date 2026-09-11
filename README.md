@@ -453,16 +453,5 @@ Recall is used as the primary model-selection metric because identifying potenti
 
 The resulting model can be used as a **decision-support tool** to help businesses identify customers who may be at higher risk of churn and prioritize appropriate retention strategies.
 
----
 
-## 👤 Author
 
-**Your Name**
-
-B.Tech – Chemical Engineering
-
----
-
-## 📄 License
-
-This project is intended for educational and demonstration purposes.
